@@ -1,0 +1,23 @@
+{
+    "name": "@mbext/command-handler",
+    "version": "1.0.0",
+    "description": "custom command handler for minecraft bedrock development",
+    "author": "sausage404",
+    "main": "dist/bundle.js",
+    "types": "types/index.d.ts",
+    "license": "GNU-3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sausage404/mbext-command-handler.git"
+    },
+    "scripts": {
+        "build": "webpack --mode production",
+        "dev": "webpack --mode development --watch"
+    },
+    "devDependencies": {
+        "@minecraft/server": "^1.17.0-beta.1.21.51-stable",
+        "ts-loader": "^9.5.1",
+        "webpack": "^5.97.1",
+        "webpack-cli": "^6.0.1"
+    }
+}
