@@ -1,4 +1,4 @@
-# Custom Command Handler for Minecraft Bedrock Deverlopment
+# Custom Command Handler for Minecraft Bedrock Development
 
 [![npm version](https://badge.fury.io/js/%40mbext%2Fcommand-handler.svg)](https://badge.fury.io/js/%40mbext%2Fcommand-handler)
 
