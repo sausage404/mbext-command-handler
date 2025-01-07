@@ -1,6 +1,6 @@
 {
     "name": "@mbext/command-handler",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "custom command handler for minecraft bedrock development",
     "author": "sausage404",
     "main": "dist/bundle.js",
