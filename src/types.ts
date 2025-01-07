@@ -34,7 +34,6 @@ export type CommandConfig = {
 }
 
 export type Argument = {
-    description: string;
     type: ArgumentType;
     required?: boolean;
     default?: ArgumentValue;

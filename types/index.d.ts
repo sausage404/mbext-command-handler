@@ -87,8 +87,6 @@ export type CommandConfig = {
  * Defines properties and requirements for a command argument.
  */
 export type Argument = {
-    /** Description of the argument's purpose */
-    description: string;
     /** Expected argument type */
     type: ArgumentType;
     /** Whether argument must be provided */
